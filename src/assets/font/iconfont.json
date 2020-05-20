@@ -1,0 +1,107 @@
+{
+  "id": "1784781",
+  "name": "项目2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "692439",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "3670109",
+      "name": "订单",
+      "font_class": "tubiaolunkuo-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3898258",
+      "name": "美食",
+      "font_class": "meishi-",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "5195349",
+      "name": "电器",
+      "font_class": "dianqi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5835457",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6160080",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "6170675",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7348488",
+      "name": "鞋子4",
+      "font_class": "shenghuoyongpin-",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "7791010",
+      "name": "服饰",
+      "font_class": "fushi",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "8655882",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "11749498",
+      "name": "房子",
+      "font_class": "fangzizhuye",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "11758136",
+      "name": "拍卖",
+      "font_class": "paimai",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "13212368",
+      "name": "商城-海外购",
+      "font_class": "haiwaigou",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13497500",
+      "name": "床上用品",
+      "font_class": "chuangshangyongpin",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
